@@ -1,12 +1,18 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![IoT](https://img.shields.io/badge/Domain-IoT-orange)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Hardware](https://img.shields.io/badge/Type-Hardware%20Project-lightgrey)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![App](https://img.shields.io/badge/App-Kodular-purple)
+
 # 🚕 Uber Ride Sharing Analytics Dashboard
 
 End-to-end Uber ride-sharing analytics project using **Python, SQL, and Tableau** to analyze ride demand, revenue trends, passenger behavior, and pickup/dropoff patterns. The project follows a complete data analytics workflow—from raw data cleaning to interactive dashboard creation and SQL-based business analysis.
 
----
 
-# 📈 Dashboard Preview
+## 📈 Dashboard Preview
 
-## Tableau Dashboard
+### Tableau Dashboard
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/bushra.shaikh/viz/UberRideSharingAnalyticsDashboard/Dashboard1" target="_blank">
@@ -14,9 +20,8 @@ End-to-end Uber ride-sharing analytics project using **Python, SQL, and Tableau*
   </a>
 </p>
 
----
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes Uber ride-sharing data to uncover valuable business insights that can help improve operational efficiency and customer experience.
 
@@ -29,9 +34,8 @@ The workflow includes:
 * SQL Business Analysis
 * Business Insights
 
----
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 
 * Analyze ride demand across different hours, weekdays, and months.
 * Study revenue trends.
@@ -40,9 +44,8 @@ The workflow includes:
 * Build an interactive business dashboard.
 * Perform SQL-based business analysis.
 
----
 
-# 📊 Dataset Information
+## 📊 Dataset Information
 
 The dataset contains approximately **195,000 Uber rides** with information such as:
 
@@ -62,9 +65,8 @@ Additional features were engineered during preprocessing, including:
 * Month Name
 * Day Type (Weekday / Weekend)
 
----
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 * Pandas
@@ -76,65 +78,55 @@ Additional features were engineered during preprocessing, including:
 * Jupyter Notebook
 * Git & GitHub
 
----
 
-### Dashboard Overview
+## Dashboard Overview
 
 ![Dashboard](screenshots/dashboard.png)
 
----
 
-# 📊 Dashboard Visualizations
+## 📊 Dashboard Visualizations
 
-## Total Rides
+### Total Rides
 
 ![Total Ride Demand](screenshots/ride_by_hour.png)
 
----
 
-## Ride Demand by Month
+### Ride Demand by Month
 
 ![Ride by Month](screenshots/ride_by_month.png)
 
----
 
-## Passenger Count Distribution
+### Passenger Count Distribution
 
 ![Passenger Count](screenshots/passenger_count.png)
 
----
 
-## Fare Distribution
+### Fare Distribution
 
 ![Fare Distribution](screenshots/fare_distribution.png)
 
----
 
-## Ride Demand by Weekday
+### Ride Demand by Weekday
 
 ![Ride by Weekday](screenshots/ride_by_weekday.png)
 
----
 
-## Ride Type (Weekday vs Weekend)
+### Ride Type (Weekday vs Weekend)
 
 ![Ride Type](screenshots/ride_type_weekday_vs_weekend.png)
 
----
 
-## Pickup Location Demand
+### Pickup Location Demand
 
 ![Pickup Map](screenshots/pickup_map.png)
 
----
 
-## Dropoff Location Demand
+### Dropoff Location Demand
 
 ![Dropoff Map](screenshots/dropoff_map.png)
 
----
 
-# 🗄️ SQL Analysis
+## 🗄️ SQL Analysis
 
 SQL was used to perform business analysis on the processed dataset.
 
@@ -148,9 +140,8 @@ The analysis includes:
 * Pickup & Dropoff Location Analysis
 * Business Insights Queries
 
----
 
-# 💡 Key Business Insights
+## 💡 Key Business Insights
 
 * Weekdays generate significantly more rides than weekends.
 * Most rides occur during evening peak hours.
@@ -159,9 +150,8 @@ The analysis includes:
 * Most rides involve a single passenger.
 * Pickup demand is concentrated in a few high-density locations.
 
----
 
-# ▶️ How to Run This Project
+## ▶️ How to Run This Project
 
 1. Clone this repository.
 2. Open the notebooks in Jupyter Notebook.
@@ -170,9 +160,8 @@ The analysis includes:
 5. Execute the SQL queries.
 6. Open the Tableau workbook or view the published dashboard.
 
----
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 * Predict ride demand using Machine Learning.
 * Fare prediction model.
@@ -180,12 +169,9 @@ The analysis includes:
 * Time-series demand analysis.
 * Interactive dashboard filters.
 
----
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Bushra Shaikh**
 
 B.Tech Computer Science (Data Science)
-
-GitHub: https://github.com/BushraShaikh4704

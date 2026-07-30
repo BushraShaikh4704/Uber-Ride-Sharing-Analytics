@@ -9,16 +9,9 @@
 
 End-to-end Uber ride-sharing analytics project using **Python, SQL, and Tableau** to analyze ride demand, revenue trends, passenger behavior, and pickup/dropoff patterns. The project follows a complete data analytics workflow—from raw data cleaning to interactive dashboard creation and SQL-based business analysis.
 
+## Tableau Dashboard
 
-## 📈 Dashboard Preview
-
-### Tableau Dashboard
-
-<p align="center">
-  <a href="https://public.tableau.com/app/profile/bushra.shaikh/viz/UberRideSharingAnalyticsDashboard/Dashboard1" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Interactive%20Dashboard-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="View Tableau Dashboard">
-  </a>
-</p>
+🔗 **Live Dashboard:** [Visit My Dashboard↗](https://public.tableau.com/app/profile/bushra.shaikh/viz/UberRideSharingAnalyticsDashboard/Dashboard1)
 
 
 ## 📌 Project Overview

@@ -1,9 +1,9 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![IoT](https://img.shields.io/badge/Domain-IoT-orange)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Hardware](https://img.shields.io/badge/Type-Hardware%20Project-lightgrey)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![App](https://img.shields.io/badge/App-Kodular-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3.14-blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/SQL-Programming-skyblue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Tools](https://img.shields.io/badge/Tools-JupyterLab,MySQL&Tableau-pink)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Live](https://img.shields.io/badge/Live-Dashboard-red)
 
 # 🚕 Uber Ride Sharing Analytics Dashboard
 

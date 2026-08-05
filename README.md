@@ -166,5 +166,3 @@ The analysis includes:
 ## 👩‍💻 Author
 
 **Bushra Shaikh**
-
-B.Tech Computer Science (Data Science)

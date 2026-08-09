@@ -122,7 +122,6 @@ Additional features were engineered during preprocessing, including:
 ## 🗄️ SQL Analysis
 
 SQL was used to perform business analysis on the processed dataset.
-
 The analysis includes:
 
 * Basic KPIs
